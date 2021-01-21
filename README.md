@@ -1,2 +1,2 @@
 # product-packaging
-Menghasilkan paket produk yang dapat memecahkan masalah stok dan meningkatan penjualan
+Menghasilkan paket produk yang dapat memecahkan masalah stok dan meningkatan penjualan dengan library arules
