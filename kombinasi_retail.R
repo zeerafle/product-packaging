@@ -2,7 +2,7 @@ library(arules)
 
 # baca file dalam class transaction
 transaksi <- read.transactions(
-    "C:\\Users\\vsefa\\OneDrive\\Projects\\Machine Learning for Retail with R Product Packaging\\Dataset\\market_basket_transaction.csv",
+    "Dataset/market_basket_transaction.csv",
     format = "basket",
     sep = ","
 )

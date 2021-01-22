@@ -3,7 +3,7 @@ library(tidyverse)
 library(plyr)
 
 # baca file excel ke data frame
-retail <- read_excel("C:\\Users\\vsefa\\OneDrive\\Projects\\Machine Learning for Retail with R Product Packaging\\Dataset\\online_retail_II.xlsx", "Year 2009-2010")
+retail <- read_excel("Dataset/online_retail_II.xlsx", "Year 2009-2010")
 # buang missing values dengan fungsi na.omit()
 retail <- na.omit(retail)
 # edit tipe kolom dengan fungsi mutate
@@ -35,7 +35,7 @@ colnames(transaction_data) <- c("items")
 # simpan data transaksi ke file baru
 write.csv(
     transaction_data,
-    "C:\\Users\\vsefa\\OneDrive\\Projects\\Machine Learning for Retail with R Product Packaging\\Dataset\\market_basket_transaction.csv",
+    "Dataset/market_basket_transaction.csv",
     quote = FALSE,
     row.names = FALSE
 )
