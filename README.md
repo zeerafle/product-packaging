@@ -24,7 +24,7 @@ Dengan skrip R ini, kita dapat mengetahui:
     * Setelah itu bebas jalankan script manapun (tidak harus berurut), dan file hasilnya akan muncul di folder Output sesuai dengan nama scriptnya (khusus script *kombinasi_retail_slow_moving.R* akan menghasilkan gambar).
 
 ## Analisis
----
+
 ### Statistik Top 10 & Bottom 10
 Dengan hasil ini kita dapat mengetahui item mana dengan transaksi tertinggi dan terendah.
 
@@ -65,7 +65,7 @@ Anggaplah produk tersebut adalah 3D TRADITIONAL CHRISTMAS STICKERS dan HEART T-L
 - 3D TRADITIONAL CHRISTMAS STICKERS akan cocok jika dipaketkan dengan 3D CHRISTMAS STAMPS STICKERS dan 3D VINTAGE CHRISTMAS STICKERS
 - HEART T-LIGHT HOLDER cocok jika dipaketkan dengan CHRISTMAS TREE T-LIGHT HOLDER dan STAR  T-LIGHT HOLDER.
 
----
-### Referensi
+
+# Referensi
 - [DQLab](www.dqlab.id) - Project Machine Learning for Retail with R: Product Packaging. Data Mentor oleh Xeratic
 - [Datacamp - Market Basket Analysis using R](https://www.datacamp.com/community/tutorials/market-basket-analysis-r)
