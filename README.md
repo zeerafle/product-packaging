@@ -67,5 +67,5 @@ Anggaplah produk tersebut adalah 3D TRADITIONAL CHRISTMAS STICKERS dan HEART T-L
 
 
 # Referensi
-- [DQLab](www.dqlab.id) - Project Machine Learning for Retail with R: Product Packaging. Data Mentor oleh Xeratic
+- [DQLab](https://dqlab.id/) - Project Machine Learning for Retail with R: Product Packaging. Data Mentor oleh Xeratic
 - [Datacamp - Market Basket Analysis using R](https://www.datacamp.com/community/tutorials/market-basket-analysis-r)
